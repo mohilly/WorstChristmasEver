@@ -1,2 +1,0 @@
-# WorstChristmasEver
-KLU Game Jam
